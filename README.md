@@ -7,6 +7,12 @@ Android
 * https://github.com/CodyEngel/MVI
 * https://github.com/sockeqwe/mosby
 
+*Examples:*
+* https://github.com/oldergod/android-architecture
+* https://github.com/oldergod/red
+* https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate
+* https://github.com/iPoli/iPoli-android
+
 *State containers*
 
 * https://github.com/brianegan/bansa
