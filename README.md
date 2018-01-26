@@ -3,8 +3,12 @@
 ## Links
 
 * [Reactive apps with Model-View-Intent](http://hannesdorfmann.com/android/mosby3-mvi-1)
-* [Data-Driven View Controllers](https://www.youtube.com/watch?v=MrFuKB3HY9o)
+* [Model-View-Intent for Android (droidcon NYC 2017)](https://www.youtube.com/watch?v=PXBXcHQeDLE)
+* [Model View Intent, Embracing Reactive UI's (droidcon NYC 2017)](https://www.youtube.com/watch?v=8JewfcZl5TQ)
 * [Driving View-State through data](https://academy.realm.io/posts/try-swift-nyc-2017-matt-gallagher-driving-view-state-through-data/)
+* [Data-Driven View Controllers](https://www.youtube.com/watch?v=MrFuKB3HY9o)
+* [Unidirectional data flow on Android using Kotlin](https://speakerdeck.com/cesarvaliente/unidirectional-data-flow-on-android-using-kotlin)
+* [Grox: The Art of the State](https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696)
 * [Taming state in Android with Elm Architecture and Kotlin](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706)
 * [Elm lifecycle diagram](https://github.com/plaxdan/elm-lifecycle)
 * [Modern RxSwift Architectures](https://academy.realm.io/posts/try-swift-nyc-2017-krunoslav-zaher-modern-rxswift-architectures/)
@@ -12,16 +16,11 @@
 ## Android
 
 ### MVI
-
-**Libraries**
-* https://github.com/CodyEngel/MVI
-* https://github.com/sockeqwe/mosby
-
-**Examples**
-* https://github.com/oldergod/android-architecture
-* https://github.com/oldergod/red
-* https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate
-* https://github.com/iPoli/iPoli-android
+* [Links related to MVI](https://github.com/CodyEngel/MVI)
+* [Mosby](https://github.com/sockeqwe/mosby)
+* [MVI + ViewModel (AAC)](https://github.com/oldergod/android-architecture)
+* [MVI + Clean Architecture (library)](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)
+* [MVI + Clean Architecture (TODO app, advanced)](https://github.com/iPoli/iPoli-android)
 
 ### TEA/Elm-architecture
 * [Counter (simple)](https://github.com/glung/elm-architecture-android)
@@ -32,9 +31,9 @@
 * [TradingApp (advanced)](https://github.com/futtetennista/TradingApp)
 
 ### State containers
-* https://github.com/brianegan/bansa
-* https://github.com/beyondeye/Reduks
-* https://github.com/groupon/grox
+* [Bansa](https://github.com/brianegan/bansa)
+* [Reduks](https://github.com/beyondeye/Reduks)
+* [Grox](https://github.com/groupon/grox)
 
 ### Redux
 * https://github.com/CesarValiente/KUnidirectional
@@ -44,6 +43,7 @@
 * https://github.com/Zeyad-37/RxRedux
 
 ### Flux
+**Libraries**
 * https://github.com/reark/reark
 * https://github.com/thedumbtechguy/Fluxxan
 
@@ -53,16 +53,16 @@
 ## iOS
 
 ### Redux
-* https://github.com/ReSwift/ReSwift
-* https://github.com/BendingSpoons/katana-swift
-* https://github.com/inamiy/RxAutomaton
-* https://github.com/NoTests/RxFeedback.swift
+* [ReSwift](https://github.com/ReSwift/ReSwift)
+* [Katana](https://github.com/BendingSpoons/katana-swift)
+* [RxAutomaton](https://github.com/inamiy/RxAutomaton)
+* [RxFeedback](https://github.com/NoTests/RxFeedback.swift)
 
 ### State containers
-* https://github.com/alexdrone/Dispatch
-* https://github.com/thoughtbot/Delta
+* [Dispatch](https://github.com/alexdrone/Dispatch)
+* [Delta](https://github.com/thoughtbot/Delta)
 
 ### Flux
-* https://github.com/ReactorKit/ReactorKit
-* https://github.com/ReactorSwift/Reactor
-* https://github.com/RxSwiftCommunity/RxState
+* [ReactorKit](https://github.com/ReactorKit/ReactorKit)
+* [Reactor](https://github.com/ReactorSwift/Reactor)
+* [RxState](https://github.com/RxSwiftCommunity/RxState)
