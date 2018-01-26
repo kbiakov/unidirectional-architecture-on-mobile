@@ -36,19 +36,19 @@
 * [Grox](https://github.com/groupon/grox)
 
 ### Redux
-* https://github.com/CesarValiente/KUnidirectional
-* https://github.com/pardom/redux-kotlin
-* https://github.com/Yarikx/reductor
-* https://github.com/izumin5210/Droidux
-* https://github.com/Zeyad-37/RxRedux
+* [KUnidirectional](https://github.com/CesarValiente/KUnidirectional)
+* [redux-kotlin](https://github.com/pardom/redux-kotlin)
+* [reductor](https://github.com/Yarikx/reductor)
+* [Droidux](https://github.com/izumin5210/Droidux)
+* [RxRedux](https://github.com/Zeyad-37/RxRedux)
 
 ### Flux
 **Libraries**
-* https://github.com/reark/reark
-* https://github.com/thedumbtechguy/Fluxxan
+* [Reark](https://github.com/reark/reark)
+* [Fluxxan](https://github.com/thedumbtechguy/Fluxxan)
 
 **Examples**
-* https://github.com/FrangSierra/KotlinFirechat
+* [Firebase Chat (advanced)](https://github.com/FrangSierra/KotlinFirechat)
 
 ## iOS
 
