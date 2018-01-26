@@ -1,6 +1,6 @@
 # Unidirectional Architecture in :iphone:
 
-## Links
+## Videos & articles
 
 * [Reactive apps with Model-View-Intent](http://hannesdorfmann.com/android/mosby3-mvi-1)
 * [Model-View-Intent for Android (droidcon NYC 2017)](https://www.youtube.com/watch?v=PXBXcHQeDLE)
