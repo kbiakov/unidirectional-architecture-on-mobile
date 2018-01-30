@@ -2,16 +2,17 @@
 
 ## Videos & articles
 
-* [Reactive apps with Model-View-Intent](http://hannesdorfmann.com/android/mosby3-mvi-1)
-* [Model-View-Intent for Android (droidcon NYC 2017)](https://www.youtube.com/watch?v=PXBXcHQeDLE)
-* [Model View Intent, Embracing Reactive UI's (droidcon NYC 2017)](https://www.youtube.com/watch?v=8JewfcZl5TQ)
-* [Driving View-State through data](https://academy.realm.io/posts/try-swift-nyc-2017-matt-gallagher-driving-view-state-through-data/)
-* [Data-Driven View Controllers](https://www.youtube.com/watch?v=MrFuKB3HY9o)
+* [Unidirectional data flow architectures](https://www.youtube.com/watch?v=1c6XiQsnh_U) :clapper: and [Unidirectional User Interface Architectures](https://staltz.com/unidirectional-user-interface-architectures.html) :page_facing_up: by Andre Staltz
+* [Reactive apps with Model-View-Intent](http://hannesdorfmann.com/android/mosby3-mvi-1) :bookmark_tabs: by Hannes Dorfmann
+* [Model-View-Intent for Android (droidcon NYC 2017)](https://www.youtube.com/watch?v=PXBXcHQeDLE) :clapper:
+* [Model View Intent, Embracing Reactive UI's (droidcon NYC 2017)](https://www.youtube.com/watch?v=8JewfcZl5TQ) :clapper:
+* [Driving View-State through data](https://academy.realm.io/posts/try-swift-nyc-2017-matt-gallagher-driving-view-state-through-data/) :page_facing_up: :clapper:
+* [Data-Driven View Controllers](https://www.youtube.com/watch?v=MrFuKB3HY9o) :clapper: :ru:
 * [Unidirectional data flow on Android using Kotlin](https://speakerdeck.com/cesarvaliente/unidirectional-data-flow-on-android-using-kotlin)
-* [Grox: The Art of the State](https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696)
-* [Taming state in Android with Elm Architecture and Kotlin](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706)
+* [Grox: The Art of the State](https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696) :page_facing_up:
+* [Taming state in Android with Elm Architecture and Kotlin](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706) :page_facing_up:
 * [Elm lifecycle diagram](https://github.com/plaxdan/elm-lifecycle)
-* [Modern RxSwift Architectures](https://academy.realm.io/posts/try-swift-nyc-2017-krunoslav-zaher-modern-rxswift-architectures/)
+* [Modern RxSwift Architectures](https://academy.realm.io/posts/try-swift-nyc-2017-krunoslav-zaher-modern-rxswift-architectures/) :page_facing_up: :clapper:
 
 ## Android
 
