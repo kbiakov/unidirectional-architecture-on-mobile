@@ -1,4 +1,4 @@
-# Unidirectional Architecture in :iphone:
+# Unidirectional Architecture on :iphone:
 
 ## Videos & articles
 
