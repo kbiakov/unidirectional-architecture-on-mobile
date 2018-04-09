@@ -15,6 +15,7 @@
 * :page_facing_up: [Grox: The Art of the State](https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696)
 * :page_facing_up: [Taming state in Android with Elm Architecture and Kotlin](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706) 
 * :chart_with_upwards_trend: [Elm lifecycle diagram](https://github.com/plaxdan/elm-lifecycle)
+* :page_facing_up: [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
 
 ## Code samples :file_folder: and libraries :books:
 
