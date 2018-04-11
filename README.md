@@ -11,11 +11,15 @@
 * :clapper: :page_facing_up: [Driving View-State through data](https://academy.realm.io/posts/try-swift-nyc-2017-matt-gallagher-driving-view-state-through-data/) _(Realm.io)_ by [Matt Gallagher](https://github.com/mattgallagher)
 * :clapper: [Data-Driven View Controllers](https://www.youtube.com/watch?v=MrFuKB3HY9o) _(GDG DevFest Minsk 2017)_ by [Alexey Demedeckiy](https://github.com/AlexeyDemedetskiy)
 * :clapper: :page_facing_up: [Modern RxSwift Architectures](https://academy.realm.io/posts/try-swift-nyc-2017-krunoslav-zaher-modern-rxswift-architectures/) _(Realm.io)_ by [Krunoslav Zaher](https://github.com/kzaher)
-* :clipboard: [Unidirectional data flow on Android using Kotlin](https://speakerdeck.com/cesarvaliente/unidirectional-data-flow-on-android-using-kotlin)
-* :page_facing_up: [Grox: The Art of the State](https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696)
+* :page_facing_up: [Unidirectional data flow on Android using Kotlin](https://proandroiddev.com/unidirectional-data-flow-on-android-the-blog-post-part-1-cadcf88c72f5) by [Cesar Valiente](https://github.com/CesarValiente)
+* :page_facing_up: [Flux Android Architecture Components using Kotlin](https://medium.com/lewisrhine/flux-android-architecture-components-using-kotlin-a1c933ebf883) by [Lewis Rhine](https://github.com/LewisRhine)
+* :page_facing_up: [Uni-Directional Architecture on Android Using Realm](https://academy.realm.io/posts/eric-maxwell-uni-directional-architecture-android-using-realm/) _(Realm.io)_ by [Eric Maxwell](https://emaxwell.info/)
 * :page_facing_up: [Taming state in Android with Elm Architecture and Kotlin](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706) 
 * :chart_with_upwards_trend: [Elm lifecycle diagram](https://github.com/plaxdan/elm-lifecycle)
 * :page_facing_up: [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
+* :page_facing_up: [DiffUtil — performant one way data flow with RxJava and Kotlin](https://medium.com/@ZakTaccardi/diffutil-one-way-data-flow-with-rxjava-and-kotlin-6e17f0cdef0c)
+* :page_facing_up: [Android.apply{ Redux }](https://blog.shazam.com/android-apply-redux-2ad0f7355e0)
+* :page_facing_up: [Grox: The Art of the State](https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696)
 
 ## Code samples :file_folder: and libraries :books:
 
