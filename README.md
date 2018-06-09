@@ -4,7 +4,7 @@
 
 * :clapper: [Unidirectional data flow architectures](https://www.youtube.com/watch?v=1c6XiQsnh_U) and :page_facing_up: [Unidirectional User Interface Architectures](https://staltz.com/unidirectional-user-interface-architectures.html) by [Andre Staltz](https://github.com/staltz)
 * :bookmark_tabs: [Reactive apps with Model-View-Intent](http://hannesdorfmann.com/android/mosby3-mvi-1) by [Hannes Dorfmann](https://github.com/sockeqwe)
-* :clapper: [Model-View-Intent for Android](https://www.youtube.com/watch?v=PXBXcHQeDLE) _(Droidcon NYC 2017)_ by [Benoît Quenaudon](https://github.com/oldergod)
+* :clapper: [Model-View-Intent for Android](https://www.youtube.com/watch?v=PXBXcHQeDLE) _(Droidcon NYC 2017)_ and :page_facing_up: [briefly](https://proandroiddev.com/the-contract-of-the-model-view-intent-architecture-777f95706c1e) by [Benoît Quenaudon](https://github.com/oldergod)
 * :clapper: [Model View Intent, Embracing Reactive UI's](https://www.youtube.com/watch?v=8JewfcZl5TQ) _(Droidcon NYC 2017)_ by [Yousuf Haque](https://github.com/yousuf-haque)
 * :clapper: [Simple MVI Architecture for Android](https://www.youtube.com/watch?v=A2xyPZyoFUo) _(DevFestMN 2018)_ by [Etienne Caron](https://github.com/kanawish)
 * :books: [Introducing Model-View-Intent](https://commonsware.com/AndroidArch/previews/introducing-model-view-intent) (_[Android's Architecture Components](https://commonsware.com/AndroidArch/) book_) by [Mark Murphy](https://github.com/commonsguy)
@@ -12,6 +12,7 @@
 * :clapper: :page_facing_up: [Redux-ing UI bugs to Make Native Better](https://academy.realm.io/posts/kau-lee-kase-reduxing-ui-borrowing-from-web/) _(Realm.io)_ by [Christina Lee](https://github.com/christinalee) & [Brandon Kase](https://github.com/bkase)
 * :clapper: :page_facing_up: [Modern RxSwift Architectures](https://academy.realm.io/posts/try-swift-nyc-2017-krunoslav-zaher-modern-rxswift-architectures/) _(Realm.io)_ by [Krunoslav Zaher](https://github.com/kzaher)
 * :clapper: [Data-Driven View Controllers](https://www.youtube.com/watch?v=MrFuKB3HY9o) _(DevFest Minsk 2017)_ by [Alexey Demedeckiy](https://github.com/AlexeyDemedetskiy)
+* :clapper: [Managing State with RxJava](https://www.youtube.com/watch?v=0IKHxjkgop4) by [Jake Wharton](https://github.com/JakeWharton)
 * :page_facing_up: [Unidirectional data flow on Android using Kotlin](https://proandroiddev.com/unidirectional-data-flow-on-android-the-blog-post-part-1-cadcf88c72f5) (Part [1](https://proandroiddev.com/unidirectional-data-flow-on-android-the-blog-post-part-1-cadcf88c72f5), [2](https://proandroiddev.com/unidirectional-data-flow-on-android-the-blog-post-part-2-b8cfedb1265a)) by [Cesar Valiente](https://github.com/CesarValiente)
 * :page_facing_up: [Flux Android Architecture Components using Kotlin](https://medium.com/lewisrhine/flux-android-architecture-components-using-kotlin-a1c933ebf883) by [Lewis Rhine](https://github.com/LewisRhine)
 * :page_facing_up: [Uni-Directional Architecture on Android Using Realm](https://academy.realm.io/posts/eric-maxwell-uni-directional-architecture-android-using-realm/) _(Realm.io)_ by [Eric Maxwell](https://emaxwell.info/)
