@@ -31,8 +31,9 @@
 * :page_facing_up: [Links related to MVI](https://github.com/CodyEngel/MVI)
 * :books: [Mosby](https://github.com/sockeqwe/mosby)
 * :file_folder: [MVI + ViewModel (AAC)](https://github.com/oldergod/android-architecture)
-* :file_folder: [MVI + Clean Architecture (library)](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)
+* :file_folder: [MVI + Clean Architecture + AAC (boilerplate)](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)
 * :file_folder: [MVI + Clean Architecture (TODO app, advanced)](https://github.com/iPoli/iPoli-android)
+* :file_folder: [MVI (sample app)](https://github.com/kanawish/android-mvi-sample)
 #### TEA/Elm-architecture
 * :file_folder: [Counter (simple)](https://github.com/glung/elm-architecture-android)
 * :file_folder: [TEA/Litho, 1](https://github.com/p69/Elma)
