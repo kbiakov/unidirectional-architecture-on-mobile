@@ -19,9 +19,12 @@
 * :page_facing_up: [Taming state in Android with Elm Architecture and Kotlin](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706) (Part [1](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706), [2](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-2-c709f75f7596), [3](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-3-f37a7a630ec1)) by [Sergey Grekov](https://github.com/sgrekov)
 * :chart_with_upwards_trend: [Elm lifecycle diagram](https://github.com/plaxdan/elm-lifecycle)
 * :page_facing_up: [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
-* :page_facing_up: [DiffUtil — performant one way data flow with RxJava and Kotlin](https://medium.com/@ZakTaccardi/diffutil-one-way-data-flow-with-rxjava-and-kotlin-6e17f0cdef0c)
+* :page_facing_up: [Model-View-Intent & Data Binding](https://proandroiddev.com/model-view-intent-data-binding-39c7a6a6512f)
+* :page_facing_up: [From MVP to MVI — Model-View-Intent Journey](https://android.jlelse.eu/from-mvp-to-mvi-model-view-intent-journey-part-i-8542f9fe7ef7)
 * :page_facing_up: [Android.apply{ Redux }](https://blog.shazam.com/android-apply-redux-2ad0f7355e0)
 * :page_facing_up: [Grox: The Art of the State](https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696)
+* :page_facing_up: [DiffUtil — performant one way data flow with RxJava and Kotlin](https://medium.com/@ZakTaccardi/diffutil-one-way-data-flow-with-rxjava-and-kotlin-6e17f0cdef0c)
+* :page_facing_up: [Refactoring RecyclerView adapter to data binding](https://blog.untitledkingdom.com/refactoring-recyclerview-adapter-to-data-binding-5631f239095f)
 
 ## Code samples :file_folder: and libraries :books:
 
