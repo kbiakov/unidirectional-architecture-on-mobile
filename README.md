@@ -26,13 +26,47 @@
 * :page_facing_up: [DiffUtil — performant one way data flow with RxJava and Kotlin](https://medium.com/@ZakTaccardi/diffutil-one-way-data-flow-with-rxjava-and-kotlin-6e17f0cdef0c)
 * :page_facing_up: [Refactoring RecyclerView adapter to data binding](https://blog.untitledkingdom.com/refactoring-recyclerview-adapter-to-data-binding-5631f239095f)
 
-## Code samples :file_folder: and libraries :books:
+## Useful libraries :books:
+
+#### MVI
+* :books: [Mosby](https://github.com/sockeqwe/mosby) :fire:
+#### Redux
+* :books: [RxRedux](https://github.com/freeletics/RxRedux) :fire: by [Hannes Dorfmann](https://github.com/sockeqwe)
+* :books: [KUnidirectional](https://github.com/CesarValiente/KUnidirectional) :fire: by [Cesar Valiente](https://github.com/CesarValiente)
+* :books: [Suas-Android](https://github.com/zendesk/Suas-Android) :fire:
+* :books: [redux-kotlin](https://github.com/pardom/redux-kotlin)
+* :books: [RxRedux](https://github.com/Zeyad-37/RxRedux)
+* :books: [reductor](https://github.com/Yarikx/reductor)
+* :books: [Droidux](https://github.com/izumin5210/Droidux)
+#### State containers
+* :books: [Bansa](https://github.com/brianegan/bansa)
+* :books: [Reduks](https://github.com/beyondeye/Reduks)
+* :books: [Grox](https://github.com/groupon/grox) :fire:
+#### Flux
+* :books: [Reark](https://github.com/reark/reark)
+* :books: [Fluxxan](https://github.com/thedumbtechguy/Fluxxan)
+
+### iOS
+
+#### Redux
+* :books: [ReSwift](https://github.com/ReSwift/ReSwift) :fire:
+* :books: [Katana](https://github.com/BendingSpoons/katana-swift) :fire:
+* :books: [RxAutomaton](https://github.com/inamiy/RxAutomaton)
+* :books: [RxFeedback](https://github.com/NoTests/RxFeedback.swift) :fire:
+#### State containers
+* :books: [Dispatch](https://github.com/alexdrone/Dispatch)
+* :books: [Delta](https://github.com/thoughtbot/Delta)
+#### Flux
+* :books: [ReactorKit](https://github.com/ReactorKit/ReactorKit) :fire:
+* :books: [Reactor](https://github.com/ReactorSwift/Reactor)
+* :books: [RxState](https://github.com/RxSwiftCommunity/RxState)
+
+## Code samples :file_folder:
 
 ### Android
 
 #### MVI
 * :page_facing_up: [Links related to MVI](https://github.com/CodyEngel/MVI)
-* :books: [Mosby](https://github.com/sockeqwe/mosby)
 * :file_folder: [MVI + ViewModel (AAC)](https://github.com/oldergod/android-architecture)
 * :file_folder: [MVI + Clean Architecture + AAC (boilerplate)](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)
 * :file_folder: [MVI + Clean Architecture (TODO app, advanced)](https://github.com/iPoli/iPoli-android)
@@ -44,32 +78,9 @@
 * :file_folder: [TEA + ViewModel (AAC)](https://github.com/InventiDevelopment/Elmdroid)
 * :file_folder: [TEA + MVP](https://github.com/sgrekov/Android-Elm-Architecture-Sample)
 * :file_folder: [TradingApp (advanced)](https://github.com/futtetennista/TradingApp)
-#### State containers
-* :books: [Bansa](https://github.com/brianegan/bansa)
-* :books: [Reduks](https://github.com/beyondeye/Reduks)
-* :books: [Grox](https://github.com/groupon/grox)
-#### Redux
-* :books: [KUnidirectional](https://github.com/CesarValiente/KUnidirectional)
-* :books: [redux-kotlin](https://github.com/pardom/redux-kotlin)
-* :books: [reductor](https://github.com/Yarikx/reductor)
-* :books: [Droidux](https://github.com/izumin5210/Droidux)
-* :books: [RxRedux](https://github.com/Zeyad-37/RxRedux)
 #### Flux
-* :books: [Reark](https://github.com/reark/reark)
-* :books: [Fluxxan](https://github.com/thedumbtechguy/Fluxxan)
 * :file_folder: [Firebase Chat (advanced)](https://github.com/FrangSierra/KotlinFirechat)
 
 ### iOS
 
-#### Redux
-* :books: [ReSwift](https://github.com/ReSwift/ReSwift)
-* :books: [Katana](https://github.com/BendingSpoons/katana-swift)
-* :books: [RxAutomaton](https://github.com/inamiy/RxAutomaton)
-* :books: [RxFeedback](https://github.com/NoTests/RxFeedback.swift)
-#### State containers
-* :books: [Dispatch](https://github.com/alexdrone/Dispatch)
-* :books: [Delta](https://github.com/thoughtbot/Delta)
-#### Flux
-* :books: [ReactorKit](https://github.com/ReactorKit/ReactorKit)
-* :books: [Reactor](https://github.com/ReactorSwift/Reactor)
-* :books: [RxState](https://github.com/RxSwiftCommunity/RxState)
+`TODO`
