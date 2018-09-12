@@ -31,7 +31,10 @@
 ## Useful libraries :books:
 
 #### MVI
-* :books: [Mosby](https://github.com/sockeqwe/mosby) :fire:
+* :books: [Mosby](https://github.com/sockeqwe/mosby) :fire: by [Hannes Dorfmann](https://github.com/sockeqwe)
+* :books: [MVICore](https://github.com/badoo/MVICore) :fire: by [Badoo Tech](https://github.com/badoo)
+* :books: [android-mvi](https://github.com/memtrip/android-mvi)
+* :books: [Reamp](https://github.com/eastbanctechru/Reamp)
 #### Redux
 * :books: [RxRedux](https://github.com/freeletics/RxRedux) :fire: by [Hannes Dorfmann](https://github.com/sockeqwe)
 * :books: [KUnidirectional](https://github.com/CesarValiente/KUnidirectional) :fire: by [Cesar Valiente](https://github.com/CesarValiente)
@@ -41,9 +44,10 @@
 * :books: [reductor](https://github.com/Yarikx/reductor)
 * :books: [Droidux](https://github.com/izumin5210/Droidux)
 #### State containers
+* :books: [Grox](https://github.com/groupon/grox) :fire:
+* :books: [Kaskade](https://github.com/gumil/Kaskade)
 * :books: [Bansa](https://github.com/brianegan/bansa)
 * :books: [Reduks](https://github.com/beyondeye/Reduks)
-* :books: [Grox](https://github.com/groupon/grox) :fire:
 #### Flux
 * :books: [Reark](https://github.com/reark/reark)
 * :books: [Fluxxan](https://github.com/thedumbtechguy/Fluxxan)
