@@ -21,6 +21,7 @@
 * :page_facing_up: [Reactive State Mutations via CQRS](https://arturdryomov.online/posts/reactive-state-mutations/)
 * :page_facing_up: [Model-View-Intent & Data Binding](https://proandroiddev.com/model-view-intent-data-binding-39c7a6a6512f)
 * :page_facing_up: [From MVP to MVI — Model-View-Intent Journey](https://android.jlelse.eu/from-mvp-to-mvi-model-view-intent-journey-part-i-8542f9fe7ef7)
+* :page_facing_up: [Android MVI explained in MVP terms](https://rongi.github.io/kotlin-blog/rx-presenter.html)
 * :page_facing_up: :ru: [MVIDroid: обзор новой библиотеки MVI (Model-View-Intent)](https://habr.com/post/417763/)
 * :page_facing_up: [Moving to Model-View-Intent (MVI) using ReactorKit on iOS](https://blog.getdoctalk.com/moving-to-model-view-intent-mvi-on-ios-2146e0c07d1c)
 * :page_facing_up: [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
