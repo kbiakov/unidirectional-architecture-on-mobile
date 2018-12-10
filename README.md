@@ -23,6 +23,7 @@
 * :page_facing_up: [From MVP to MVI — Model-View-Intent Journey](https://android.jlelse.eu/from-mvp-to-mvi-model-view-intent-journey-part-i-8542f9fe7ef7)
 * :page_facing_up: [Android MVI explained in MVP terms](https://rongi.github.io/kotlin-blog/rx-presenter.html)
 * :page_facing_up: [Presenter as a Function: Reactive MVP for Android Using Kotlin Coroutines](https://rw.co/our-thinking/presenter-as-a-function-reactive-mvp-for-android-using-kotlin-coroutines/)
+* :page_facing_up: [RxRedux](https://freeletics.engineering/2018/08/16/rxredux.html) by [Hannes Dorfmann](https://github.com/sockeqwe)
 * :page_facing_up: :ru: [MVIDroid: обзор новой библиотеки MVI (Model-View-Intent)](https://habr.com/post/417763/)
 * :page_facing_up: [Moving to Model-View-Intent (MVI) using ReactorKit on iOS](https://blog.getdoctalk.com/moving-to-model-view-intent-mvi-on-ios-2146e0c07d1c)
 * :page_facing_up: [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
