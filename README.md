@@ -20,6 +20,7 @@
 * :page_facing_up: [Taming state in Android with Elm Architecture and Kotlin](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706) (Part [1](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706), [2](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-2-c709f75f7596), [3](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-3-f37a7a630ec1)) by [Sergey Grekov](https://github.com/sgrekov)
 * :chart_with_upwards_trend: [Elm lifecycle diagram](https://github.com/plaxdan/elm-lifecycle)
 * :page_facing_up: [Reactive State Mutations via CQRS](https://arturdryomov.online/posts/reactive-state-mutations/)
+* :page_facing_up: [MVI — another member of the MV* band](https://proandroiddev.com/mvi-a-new-member-of-the-mv-band-6f7f0d23bc8a)
 * :page_facing_up: [Model-View-Intent & Data Binding](https://proandroiddev.com/model-view-intent-data-binding-39c7a6a6512f)
 * :page_facing_up: [From MVP to MVI — Model-View-Intent Journey](https://android.jlelse.eu/from-mvp-to-mvi-model-view-intent-journey-part-i-8542f9fe7ef7)
 * :page_facing_up: [Android MVI explained in MVP terms](https://rongi.github.io/kotlin-blog/rx-presenter.html)
