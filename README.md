@@ -27,6 +27,7 @@
 * :page_facing_up: [Presenter as a Function: Reactive MVP for Android Using Kotlin Coroutines](https://rw.co/our-thinking/presenter-as-a-function-reactive-mvp-for-android-using-kotlin-coroutines/)
 * :page_facing_up: [RxRedux](https://freeletics.engineering/2018/08/16/rxredux.html) by [Hannes Dorfmann](https://github.com/sockeqwe)
 * :page_facing_up: :ru: [MVIDroid: обзор новой библиотеки MVI (Model-View-Intent)](https://habr.com/post/417763/)
+* :page_facing_up: [Building MVI apps with Roxie](https://proandroiddev.com/unidirectional-data-flow-with-roxie-bec546c18598)
 * :page_facing_up: [Moving to Model-View-Intent (MVI) using ReactorKit on iOS](https://blog.getdoctalk.com/moving-to-model-view-intent-mvi-on-ios-2146e0c07d1c)
 * :page_facing_up: [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
 * :page_facing_up: [Grox: The Art of the State](https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696)
@@ -45,6 +46,7 @@
 #### Redux
 * :books: [RxRedux](https://github.com/freeletics/RxRedux) :fire: by [Hannes Dorfmann](https://github.com/sockeqwe)
 * :books: [KUnidirectional](https://github.com/CesarValiente/KUnidirectional) :fire: by [Cesar Valiente](https://github.com/CesarValiente)
+* :books: [Roxie](https://github.com/ww-tech/roxie) :fire:
 * :books: [Suas-Android](https://github.com/zendesk/Suas-Android) :fire:
 * :books: [redux-kotlin](https://github.com/pardom/redux-kotlin)
 * :books: [RxRedux](https://github.com/Zeyad-37/RxRedux)
@@ -52,12 +54,14 @@
 * :books: [Droidux](https://github.com/izumin5210/Droidux)
 #### State containers
 * :books: [Grox](https://github.com/groupon/grox) :fire:
+* :books: [Eiffel](https://github.com/etiennelenhart/Eiffel) :fire:
 * :books: [Kaskade](https://github.com/gumil/Kaskade)
 * :books: [Bansa](https://github.com/brianegan/bansa)
 * :books: [Reduks](https://github.com/beyondeye/Reduks)
 #### Flux
 * :books: [Reark](https://github.com/reark/reark)
 * :books: [Fluxxan](https://github.com/thedumbtechguy/Fluxxan)
+* :books: [AndroidReactor](https://github.com/floschu/AndroidReactor)
 
 ### iOS
 
