@@ -55,6 +55,7 @@
 #### State containers
 * :books: [Grox](https://github.com/groupon/grox) :fire:
 * :books: [Eiffel](https://github.com/etiennelenhart/Eiffel) :fire:
+* :books: [RxPM](https://github.com/dmdevgo/RxPM)
 * :books: [Kaskade](https://github.com/gumil/Kaskade)
 * :books: [Bansa](https://github.com/brianegan/bansa)
 * :books: [Reduks](https://github.com/beyondeye/Reduks)
