@@ -41,10 +41,12 @@
 #### MVI
 * :books: [Mosby](https://github.com/sockeqwe/mosby) :fire: by [Hannes Dorfmann](https://github.com/sockeqwe)
 * :books: [MVICore](https://github.com/badoo/MVICore) :fire: by [Badoo Tech](https://github.com/badoo)
+* :books: [MvRx](https://github.com/airbnb/MvRx) :fire: by [Airbnb](https://github.com/airbnb)
+* :books: [Reaktor](https://github.com/floschu/Reaktor) :fire:
 * :books: [android-mvi](https://github.com/memtrip/android-mvi)
 * :books: [Reamp](https://github.com/eastbanctechru/Reamp)
 #### Redux
-* :books: [RxRedux](https://github.com/freeletics/RxRedux) :fire: by [Hannes Dorfmann](https://github.com/sockeqwe)
+* :books: [RxRedux](https://github.com/freeletics/RxRedux) & [CoRedux](https://github.com/freeletics/CoRedux) :fire: by [Hannes Dorfmann](https://github.com/sockeqwe)
 * :books: [KUnidirectional](https://github.com/CesarValiente/KUnidirectional) :fire: by [Cesar Valiente](https://github.com/CesarValiente)
 * :books: [Roxie](https://github.com/ww-tech/roxie) :fire:
 * :books: [Suas-Android](https://github.com/zendesk/Suas-Android) :fire:
@@ -89,6 +91,7 @@
 * :file_folder: [MVI + Clean Architecture + AAC (boilerplate)](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)
 * :file_folder: [MVI + Clean Architecture (TODO app, advanced)](https://github.com/iPoli/iPoli-android)
 * :file_folder: [MVI (sample app)](https://github.com/kanawish/android-mvi-sample)
+* :file_folder: [MVI + RxPresenter](https://github.com/rongi/rx-presenter-example)
 #### TEA/Elm-architecture
 * :file_folder: [Counter (simple)](https://github.com/glung/elm-architecture-android)
 * :file_folder: [TEA/Litho, 1](https://github.com/p69/Elma)
