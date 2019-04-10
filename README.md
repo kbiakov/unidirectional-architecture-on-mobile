@@ -58,6 +58,7 @@
 #### State machine
 * :books: [StateMachine](https://github.com/Tinder/StateMachine) :fire: by [Tinder](https://github.com/Tinder)
 * :books: [Workflow](https://github.com/square/workflow) :fire: by [Square](https://github.com/square)
+* :books: [RxFeedback](https://github.com/NoTests/RxFeedback.kt)
 #### State container
 * :books: [Grox](https://github.com/groupon/grox) :fire:
 * :books: [Eiffel](https://github.com/etiennelenhart/Eiffel) :fire:
@@ -76,6 +77,7 @@
 * :books: [ReSwift](https://github.com/ReSwift/ReSwift) :fire:
 * :books: [Katana](https://github.com/BendingSpoons/katana-swift) :fire:
 * :books: [RxAutomaton](https://github.com/inamiy/RxAutomaton)
+#### State machine
 * :books: [RxFeedback](https://github.com/NoTests/RxFeedback.swift) :fire:
 #### State container
 * :books: [Dispatch](https://github.com/alexdrone/Dispatch)
