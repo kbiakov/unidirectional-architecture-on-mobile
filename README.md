@@ -35,6 +35,7 @@
 * :page_facing_up: [Android.apply{ Redux }](https://blog.shazam.com/android-apply-redux-2ad0f7355e0)
 * :page_facing_up: [DiffUtil — performant one way data flow with RxJava and Kotlin](https://medium.com/@ZakTaccardi/diffutil-one-way-data-flow-with-rxjava-and-kotlin-6e17f0cdef0c)
 * :page_facing_up: [Refactoring RecyclerView adapter to data binding](https://blog.untitledkingdom.com/refactoring-recyclerview-adapter-to-data-binding-5631f239095f)
+* :page_facing_up: [Links related to MVI](https://github.com/CodyEngel/MVI)
 
 ## Useful libraries :books:
 
@@ -54,7 +55,10 @@
 * :books: [RxRedux](https://github.com/Zeyad-37/RxRedux)
 * :books: [reductor](https://github.com/Yarikx/reductor)
 * :books: [Droidux](https://github.com/izumin5210/Droidux)
-#### State containers
+#### State machine
+* :books: [StateMachine](https://github.com/Tinder/StateMachine) :fire: by [Tinder](https://github.com/Tinder)
+* :books: [Workflow](https://github.com/square/workflow) :fire: by [Square](https://github.com/square)
+#### State container
 * :books: [Grox](https://github.com/groupon/grox) :fire:
 * :books: [Eiffel](https://github.com/etiennelenhart/Eiffel) :fire:
 * :books: [RxPM](https://github.com/dmdevgo/RxPM)
@@ -73,7 +77,7 @@
 * :books: [Katana](https://github.com/BendingSpoons/katana-swift) :fire:
 * :books: [RxAutomaton](https://github.com/inamiy/RxAutomaton)
 * :books: [RxFeedback](https://github.com/NoTests/RxFeedback.swift) :fire:
-#### State containers
+#### State container
 * :books: [Dispatch](https://github.com/alexdrone/Dispatch)
 * :books: [Delta](https://github.com/thoughtbot/Delta)
 #### Flux
@@ -86,8 +90,8 @@
 ### Android
 
 #### MVI
-* :page_facing_up: [Links related to MVI](https://github.com/CodyEngel/MVI)
-* :file_folder: [MVI + ViewModel (AAC)](https://github.com/oldergod/android-architecture)
+* :file_folder: [MVI (general)](https://github.com/kaushikgopal/movies-usf) :fire: by [Kaushik Gopal](https://github.com/kaushikgopal)
+* :file_folder: [MVI + ViewModel (AAC)](https://github.com/oldergod/android-architecture) :fire: by [Benoît Quenaudon](https://github.com/oldergod)
 * :file_folder: [MVI + Clean Architecture + AAC (boilerplate)](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate)
 * :file_folder: [MVI + Clean Architecture (TODO app, advanced)](https://github.com/iPoli/iPoli-android)
 * :file_folder: [MVI (sample app)](https://github.com/kanawish/android-mvi-sample)
