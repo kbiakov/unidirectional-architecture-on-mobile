@@ -79,6 +79,7 @@
 * :books: [RxAutomaton](https://github.com/inamiy/RxAutomaton)
 #### State machine
 * :books: [RxFeedback](https://github.com/NoTests/RxFeedback.swift) :fire:
+* :books: [Stateful](https://github.com/albertodebortoli/Stateful)
 #### State container
 * :books: [Dispatch](https://github.com/alexdrone/Dispatch)
 * :books: [Delta](https://github.com/thoughtbot/Delta)
