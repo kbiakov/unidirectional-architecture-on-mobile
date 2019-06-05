@@ -68,6 +68,7 @@
 * :books: [Droidux](https://github.com/izumin5210/Droidux)
 #### TEA/Elm-architecture
 * :books: [elmo](https://github.com/bobymicroby/elmo)
+* :books: [cyklic](https://github.com/bkase/cyklic)
 #### State machine
 * :books: [StateMachine](https://github.com/Tinder/StateMachine) :fire: by [Tinder](https://github.com/Tinder)
 * :books: [Workflow](https://github.com/square/workflow) :fire: by [Square](https://github.com/square)
