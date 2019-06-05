@@ -1,6 +1,6 @@
 # Unidirectional Architecture on :iphone:
 
-## Videos & articles
+## Videos & books
 
 * :clapper: [Unidirectional data flow architectures](https://www.youtube.com/watch?v=1c6XiQsnh_U) and :page_facing_up: [Unidirectional User Interface Architectures](https://staltz.com/unidirectional-user-interface-architectures.html) by [Andre Staltz](https://github.com/staltz)
 * :bookmark_tabs: [Reactive apps with Model-View-Intent](http://hannesdorfmann.com/android/mosby3-mvi-1) by [Hannes Dorfmann](https://github.com/sockeqwe)
@@ -14,28 +14,37 @@
 * :clapper: :page_facing_up: [Modern RxSwift Architectures](https://academy.realm.io/posts/try-swift-nyc-2017-krunoslav-zaher-modern-rxswift-architectures/) _(Realm.io)_ by [Krunoslav Zaher](https://github.com/kzaher)
 * :clapper: :ru: [Data-Driven View Controllers](https://www.youtube.com/watch?v=MrFuKB3HY9o) _(DevFest Minsk 2017)_, [Data-driven UI: безграничная власть](https://www.youtube.com/watch?v=tnKeUr5tRUg) _(Mobius 2018)_ by [Alexey Demedeckiy](https://github.com/AlexeyDemedetskiy)
 * :clapper: [Managing State with RxJava](https://www.youtube.com/watch?v=0IKHxjkgop4) by [Jake Wharton](https://github.com/JakeWharton)
+
+## Articles
+
 * :page_facing_up: [Unidirectional data flow on Android using Kotlin](https://proandroiddev.com/unidirectional-data-flow-on-android-the-blog-post-part-1-cadcf88c72f5) (Part [1](https://proandroiddev.com/unidirectional-data-flow-on-android-the-blog-post-part-1-cadcf88c72f5), [2](https://proandroiddev.com/unidirectional-data-flow-on-android-the-blog-post-part-2-b8cfedb1265a)) by [Cesar Valiente](https://github.com/CesarValiente)
 * :page_facing_up: [Flux Android Architecture Components using Kotlin](https://medium.com/lewisrhine/flux-android-architecture-components-using-kotlin-a1c933ebf883) by [Lewis Rhine](https://github.com/LewisRhine)
 * :page_facing_up: [Uni-Directional Architecture on Android Using Realm](https://academy.realm.io/posts/eric-maxwell-uni-directional-architecture-android-using-realm/) _(Realm.io)_ by [Eric Maxwell](https://emaxwell.info/)
-* :page_facing_up: [Taming state in Android with Elm Architecture and Kotlin](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706) (Part [1](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706), [2](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-2-c709f75f7596), [3](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-3-f37a7a630ec1)) by [Sergey Grekov](https://github.com/sgrekov)
-* :chart_with_upwards_trend: [Elm lifecycle diagram](https://github.com/plaxdan/elm-lifecycle)
-* :page_facing_up: [Reactive State Mutations via CQRS](https://arturdryomov.online/posts/reactive-state-mutations/)
+
+### MVI
 * :page_facing_up: [MVI — another member of the MV* band](https://proandroiddev.com/mvi-a-new-member-of-the-mv-band-6f7f0d23bc8a)
-* :page_facing_up: [Model-View-Intent & Data Binding](https://proandroiddev.com/model-view-intent-data-binding-39c7a6a6512f)
 * :page_facing_up: [From MVP to MVI — Model-View-Intent Journey](https://android.jlelse.eu/from-mvp-to-mvi-model-view-intent-journey-part-i-8542f9fe7ef7)
+* :page_facing_up: [Build Your own MVI Framework](https://medium.com/appnroll-publication/build-your-own-mvi-framework-a76d72c6e8e7)
 * :page_facing_up: [Android MVI explained in MVP terms](https://rongi.github.io/kotlin-blog/rx-presenter.html)
 * :page_facing_up: [Presenter as a Function: Reactive MVP for Android Using Kotlin Coroutines](https://rw.co/our-thinking/presenter-as-a-function-reactive-mvp-for-android-using-kotlin-coroutines/)
-* :page_facing_up: [RxRedux](https://freeletics.engineering/2018/08/16/rxredux.html) by [Hannes Dorfmann](https://github.com/sockeqwe)
-* :page_facing_up: :ru: [MVIDroid: обзор новой библиотеки MVI (Model-View-Intent)](https://habr.com/post/417763/)
-* :page_facing_up: [Building MVI apps with Roxie](https://proandroiddev.com/unidirectional-data-flow-with-roxie-bec546c18598)
+* :page_facing_up: [Android MVI with Jetpack Compose](https://medium.com/swlh/android-mvi-with-jetpack-compose-b0890f5156ac)
+* :page_facing_up: [Model-View-Intent & Data Binding](https://proandroiddev.com/model-view-intent-data-binding-39c7a6a6512f)
 * :page_facing_up: [Moving to Model-View-Intent (MVI) using ReactorKit on iOS](https://blog.getdoctalk.com/moving-to-model-view-intent-mvi-on-ios-2146e0c07d1c)
+* :page_facing_up: [Building MVI apps with Roxie](https://proandroiddev.com/unidirectional-data-flow-with-roxie-bec546c18598)
+* :page_facing_up: :ru: [MVIDroid: обзор новой библиотеки MVI (Model-View-Intent)](https://habr.com/post/417763/)
+* :page_facing_up: [Links related to MVI](https://github.com/CodyEngel/MVI)
+
+### Next steps
 * :page_facing_up: [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
 * :page_facing_up: [Grox: The Art of the State](https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696)
 * :page_facing_up: [iOS Architecture: A State Container based approach](https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e)
+* :page_facing_up: [Taming state in Android with Elm Architecture and Kotlin](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706) (Part [1](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-1-566caae0f706), [2](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-2-c709f75f7596), [3](https://proandroiddev.com/taming-state-in-android-with-elm-architecture-and-kotlin-part-3-f37a7a630ec1)) by [Sergey Grekov](https://github.com/sgrekov)
+* :chart_with_upwards_trend: [Elm lifecycle diagram](https://github.com/plaxdan/elm-lifecycle)
+* :page_facing_up: [RxRedux](https://freeletics.engineering/2018/08/16/rxredux.html) by [Hannes Dorfmann](https://github.com/sockeqwe)
 * :page_facing_up: [Android.apply{ Redux }](https://blog.shazam.com/android-apply-redux-2ad0f7355e0)
+* :page_facing_up: [Reactive State Mutations via CQRS](https://arturdryomov.online/posts/reactive-state-mutations/)
 * :page_facing_up: [DiffUtil — performant one way data flow with RxJava and Kotlin](https://medium.com/@ZakTaccardi/diffutil-one-way-data-flow-with-rxjava-and-kotlin-6e17f0cdef0c)
 * :page_facing_up: [Refactoring RecyclerView adapter to data binding](https://blog.untitledkingdom.com/refactoring-recyclerview-adapter-to-data-binding-5631f239095f)
-* :page_facing_up: [Links related to MVI](https://github.com/CodyEngel/MVI)
 
 ## Useful libraries :books:
 
@@ -44,6 +53,8 @@
 * :books: [MVICore](https://github.com/badoo/MVICore) :fire: by [Badoo Tech](https://github.com/badoo)
 * :books: [MvRx](https://github.com/airbnb/MvRx) :fire: by [Airbnb](https://github.com/airbnb)
 * :books: [Reaktor](https://github.com/floschu/Reaktor) :fire:
+* :books: [Kaskade](https://github.com/gumil/Kaskade)
+* :books: [Vector](https://github.com/haroldadmin/Vector)
 * :books: [android-mvi](https://github.com/memtrip/android-mvi)
 * :books: [Reamp](https://github.com/eastbanctechru/Reamp)
 #### Redux
@@ -55,6 +66,8 @@
 * :books: [RxRedux](https://github.com/Zeyad-37/RxRedux)
 * :books: [reductor](https://github.com/Yarikx/reductor)
 * :books: [Droidux](https://github.com/izumin5210/Droidux)
+#### TEA/Elm-architecture
+* :books: [elmo](https://github.com/bobymicroby/elmo)
 #### State machine
 * :books: [StateMachine](https://github.com/Tinder/StateMachine) :fire: by [Tinder](https://github.com/Tinder)
 * :books: [Workflow](https://github.com/square/workflow) :fire: by [Square](https://github.com/square)
@@ -63,7 +76,6 @@
 * :books: [Grox](https://github.com/groupon/grox) :fire:
 * :books: [Eiffel](https://github.com/etiennelenhart/Eiffel) :fire:
 * :books: [RxPM](https://github.com/dmdevgo/RxPM)
-* :books: [Kaskade](https://github.com/gumil/Kaskade)
 * :books: [Bansa](https://github.com/brianegan/bansa)
 * :books: [Reduks](https://github.com/beyondeye/Reduks)
 #### Flux
