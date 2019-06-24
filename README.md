@@ -20,6 +20,7 @@
 * :page_facing_up: [Unidirectional data flow on Android using Kotlin](https://proandroiddev.com/unidirectional-data-flow-on-android-the-blog-post-part-1-cadcf88c72f5) (Part [1](https://proandroiddev.com/unidirectional-data-flow-on-android-the-blog-post-part-1-cadcf88c72f5), [2](https://proandroiddev.com/unidirectional-data-flow-on-android-the-blog-post-part-2-b8cfedb1265a)) by [Cesar Valiente](https://github.com/CesarValiente)
 * :page_facing_up: [Flux Android Architecture Components using Kotlin](https://medium.com/lewisrhine/flux-android-architecture-components-using-kotlin-a1c933ebf883) by [Lewis Rhine](https://github.com/LewisRhine)
 * :page_facing_up: [Uni-Directional Architecture on Android Using Realm](https://academy.realm.io/posts/eric-maxwell-uni-directional-architecture-android-using-realm/) _(Realm.io)_ by [Eric Maxwell](https://emaxwell.info/)
+* :page_facing_up: [How to make your Views a function of State in Kotlin](https://medium.com/@liviucoman/how-to-make-your-views-a-function-of-state-in-kotlin-f95a3b130cd6)
 
 ### MVI
 * :page_facing_up: [MVI — another member of the MV* band](https://proandroiddev.com/mvi-a-new-member-of-the-mv-band-6f7f0d23bc8a)
@@ -29,7 +30,6 @@
 * :page_facing_up: [Presenter as a Function: Reactive MVP for Android Using Kotlin Coroutines](https://rw.co/our-thinking/presenter-as-a-function-reactive-mvp-for-android-using-kotlin-coroutines/)
 * :page_facing_up: [MVI beyond state reducers](https://badootech.badoo.com/a-modern-kotlin-based-mvi-architecture-9924e08efab1)
 * :page_facing_up: [Building a system of reactive components with Kotlin](https://badootech.badoo.com/building-a-system-of-reactive-components-with-kotlin-ff56981e92cf)
-* :page_facing_up: [How to make your Views a function of State in Kotlin](https://medium.com/@liviucoman/how-to-make-your-views-a-function-of-state-in-kotlin-f95a3b130cd6)
 * :page_facing_up: [Android MVI with Jetpack Compose](https://medium.com/swlh/android-mvi-with-jetpack-compose-b0890f5156ac)
 * :page_facing_up: [Model-View-Intent & Data Binding](https://proandroiddev.com/model-view-intent-data-binding-39c7a6a6512f)
 * :page_facing_up: [Moving to Model-View-Intent (MVI) using ReactorKit on iOS](https://blog.getdoctalk.com/moving-to-model-view-intent-mvi-on-ios-2146e0c07d1c)
