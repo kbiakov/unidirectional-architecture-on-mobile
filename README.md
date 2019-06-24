@@ -27,12 +27,15 @@
 * :page_facing_up: [Build Your own MVI Framework](https://medium.com/appnroll-publication/build-your-own-mvi-framework-a76d72c6e8e7)
 * :page_facing_up: [Android MVI explained in MVP terms](https://rongi.github.io/kotlin-blog/rx-presenter.html)
 * :page_facing_up: [Presenter as a Function: Reactive MVP for Android Using Kotlin Coroutines](https://rw.co/our-thinking/presenter-as-a-function-reactive-mvp-for-android-using-kotlin-coroutines/)
+* :page_facing_up: [MVI beyond state reducers](https://badootech.badoo.com/a-modern-kotlin-based-mvi-architecture-9924e08efab1)
+* :page_facing_up: [Building a system of reactive components with Kotlin](https://badootech.badoo.com/building-a-system-of-reactive-components-with-kotlin-ff56981e92cf)
+* :page_facing_up: [How to make your Views a function of State in Kotlin](https://medium.com/@liviucoman/how-to-make-your-views-a-function-of-state-in-kotlin-f95a3b130cd6)
 * :page_facing_up: [Android MVI with Jetpack Compose](https://medium.com/swlh/android-mvi-with-jetpack-compose-b0890f5156ac)
 * :page_facing_up: [Model-View-Intent & Data Binding](https://proandroiddev.com/model-view-intent-data-binding-39c7a6a6512f)
 * :page_facing_up: [Moving to Model-View-Intent (MVI) using ReactorKit on iOS](https://blog.getdoctalk.com/moving-to-model-view-intent-mvi-on-ios-2146e0c07d1c)
 * :page_facing_up: [Building MVI apps with Roxie](https://proandroiddev.com/unidirectional-data-flow-with-roxie-bec546c18598)
 * :page_facing_up: :ru: [MVIDroid: обзор новой библиотеки MVI (Model-View-Intent)](https://habr.com/post/417763/)
-* :page_facing_up: [Links related to MVI](https://github.com/CodyEngel/MVI)
+* :bookmark_tabs: [Links related to MVI](https://github.com/CodyEngel/MVI)
 
 ### Next steps
 * :page_facing_up: [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
@@ -46,7 +49,7 @@
 * :page_facing_up: [DiffUtil — performant one way data flow with RxJava and Kotlin](https://medium.com/@ZakTaccardi/diffutil-one-way-data-flow-with-rxjava-and-kotlin-6e17f0cdef0c)
 * :page_facing_up: [Refactoring RecyclerView adapter to data binding](https://blog.untitledkingdom.com/refactoring-recyclerview-adapter-to-data-binding-5631f239095f)
 
-## Useful libraries :books:
+## Libraries :books:
 
 #### MVI
 * :books: [Mosby](https://github.com/sockeqwe/mosby) :fire: by [Hannes Dorfmann](https://github.com/sockeqwe)
@@ -101,7 +104,7 @@
 * :books: [Reactor](https://github.com/ReactorSwift/Reactor)
 * :books: [RxState](https://github.com/RxSwiftCommunity/RxState)
 
-## Code samples :file_folder:
+## Examples :file_folder:
 
 ### Android
 
